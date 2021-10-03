@@ -1,3 +1,9 @@
+---
+permalink : maximum-element.html
+---
+
+
+
 # Maximum element in an Array 
 
 Hey guys👋, In this post we will be discuss the **Program to find maximum element of each column in a matrix** i.e., to find the maximum value in each column of the given matrix. Since it is considered as an important problem to solve while practicing, hence thought to share🤝 with you all.
