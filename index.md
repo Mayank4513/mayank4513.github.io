@@ -1,6 +1,4 @@
----
-permalink : mayank4513.github.io
----
+
 
 
 ## Welcome to GitHub Pages
